@@ -4,4 +4,3 @@
 
 1. Here are some questions
 3. Here's the question find $$A^2$$ if $$A=9$$
-4. Ola me amo Neel
